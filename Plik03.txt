@@ -1,1 +1,9 @@
 Zmian07b
+naprawa błędu = hoitFix-001
+oraz
+Dodano asystenta pomocy
+Uproszczonie interfejsu graficznego
+easierApp
+Zmiana08b
+Zmiana09b
+Zmiana10
